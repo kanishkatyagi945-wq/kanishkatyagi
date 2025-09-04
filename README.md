@@ -2,13 +2,13 @@
 
 🎓 BCA (Hons.) Data Science student at Bennett University (2025–2029)  
 💡 Passionate about Data Science, Business Analytics, and Problem-Solving  
-🌍 Aspiring to pursue MBA in Business Analytics (Germany)  
+🌍 Aspiring to pursue MBA in Business Analytics  
 📍 Based in Ghaziabad 
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, C, SQL, HTML/CSS   
+- **Languages:** Python,  HTML/CSS   
 - **Other Tools:** Git/GitHub, Excel,  Notebook  
  
 
